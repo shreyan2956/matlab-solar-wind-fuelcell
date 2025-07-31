@@ -1,1 +1,3 @@
 # matlab-solar-wind-fuelcell
+
+A Simulink model integrating solar PV, wind turbine, and fuel cell systems represents a hybrid renewable energy setup designed for continuous and reliable power generation. In this model, the solar PV array harnesses sunlight to generate DC electricity, while the wind turbine converts wind energy into electrical power. Both are connected to power converters that regulate and optimize their output. The fuel cell acts as a backup or supplementary power source, providing electricity when solar and wind sources are insufficient—especially during low-sunlight or low-wind periods.
